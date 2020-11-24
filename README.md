@@ -1,11 +1,11 @@
-# About Me
+## About Me
 
 I’m a Computer Science 💻 Post graduate Student of 2021 batch from University Of Hertfordshire🎓. I come with an extensive experience of working with different technologies including Data Science and Machine Learning⏳.
 I'm aspiring 🔭️ Data Scientist currently delving deep into Deep Learning  🚂.
 I'm Interested in Artificial Intelligence 🤔.
 I'm a knowledge seeker & I love to learn new 💻 Technologies.
 
-# Keep Learning 👨‍🎓️
+#### Keep Learning 👨‍🎓️
     
     
 ## 🔥 Things I'm good at
@@ -15,26 +15,26 @@ I'm a knowledge seeker & I love to learn new 💻 Technologies.
 ##### Framework: 
           Flask.
 
-# Databases: 
+##### Databases: 
           MySQL.
 
-# Operating Systems:
+##### Operating Systems:
                   Windows, Ubuntu.
 
-# Cloud:
+##### Cloud:
        Heroku, GCP (Google Cloud Platform).
 
-# Libraries & Tools:
+##### Libraries & Tools:
                   Scikit learn, Numpy, Pandas, Seaborn, Matplotlib, SciPy, Feature Engineering, Handling Missing Values, Feature Scaling.
 
-# Machine learning Algorithms: 
+##### Machine learning Algorithms: 
                              EXploratory Data Analysis (EDA)Scikit learn, Numpy, Pandas, Scipy,
                              Feature Engineering, Handling Missing Values, Feature Scaling, Supervised
                              and Unsupervised algorithms.(Linear Regression, Logistic Regression,
                              Decision Tree, SVM,Naive Bayes, kNN, K-Means, Random Forest,
                              Dimensionality Reduction Algorithms, Gradient Boosting algorithms, GBM,XGBoost).
 
-# Statistical Concepts: 
+##### Statistical Concepts: 
                       Descriptive Statistics (EDA), Inferential Statistics(Sample vs Population),
                       Random Variables, Hypothesis Testing, Z-test, Student t-test, Anova Test,
                       Pearson correlation coefficient, Spearman rank correlation coefficient,
