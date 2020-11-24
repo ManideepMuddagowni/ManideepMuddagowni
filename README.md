@@ -8,11 +8,11 @@ I'm a knowledge seeker & I love to learn new 💻 Technologies.
 # Keep Learning 👨‍🎓️
     
     
-<h2> 🔥 Things I'm good at</h2> 
-# Languages: 
+## 🔥 Things I'm good at
+##### Languages: 
            Python, SQL, HTML, CSS
 
-# Framework: 
+##### Framework: 
           Flask.
 
 # Databases: 
