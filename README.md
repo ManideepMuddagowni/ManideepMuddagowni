@@ -1,6 +1,6 @@
 ## About Me
 
-<p>I’m a Computer Science 💻 Post graduate Student of 2021 batch from University Of Hertfordshire🎓. </p> <p>I come with an extensive experience of working with different technologies including Data Science and Machine Learning⏳.</p>
+<p>I’m a Computer Science 💻 Post graduate Student of 2021 batch from University Of Hertfordshire🎓. </p> <p>A Data Science geek with a strong understanding of stats and math behind the algorithms. Familiar with ML and DL frameworks. Having good hands-on In Machine Learning.⏳.</p>
 <p>I'm aspiring 🔭️ Data Scientist currently delving deep into Deep Learning  🚂.</p>
 <p>I'm Interested in Artificial Intelligence 🤔.</p>
 <p>I'm a knowledge seeker & I love to learn new 💻 Technologies.</p>
