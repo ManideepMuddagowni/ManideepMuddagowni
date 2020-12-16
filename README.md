@@ -9,7 +9,7 @@
     
 ## 🔥 Things I'm good at
 ### Languages: 
-          Python, SQL, HTML, CSS
+          Python, HTML, CSS
 ### Framework: 
           Flask.
 ### Databases: 
