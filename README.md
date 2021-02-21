@@ -11,7 +11,7 @@
 ### Languages: 
           Python
 ### Framework: 
-          Flask. Django
+          Flask, Django
 ### Databases: 
           MySQL
 ### Operating Systems:
