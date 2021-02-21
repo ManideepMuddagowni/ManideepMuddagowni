@@ -9,29 +9,29 @@
     
 ## 🔥 Things I'm good at
 ### Languages: 
-          Python, HTML, CSS
+          Python
 ### Framework: 
-          Flask.
+          Flask. Django
 ### Databases: 
-          MySQL.
+          MySQL
 ### Operating Systems:
-          Windows, Ubuntu.
+          Windows, Ubuntu
 ### Cloud:
        Heroku, GCP (Google Cloud Platform).
 ### Libraries & Tools:
        Scikit learn, Numpy, Pandas, Seaborn, Matplotlib, SciPy, Feature Engineering,
-       Handling Missing Values, Feature Scaling.
-
+       Handling Missing Values, Feature Scaling
+       
 ### Machine learning Algorithms: 
         Exploratory Data Analysis (EDA)Scikit learn, Numpy, Pandas, Scipy,
         Feature Engineering, Handling Missing Values, Feature Scaling, Supervised
         and Unsupervised algorithms.(Linear Regression, Logistic Regression,
         Decision Tree, SVM,Naive Bayes, kNN, K-Means, Random Forest,
-        Dimensionality Reduction Algorithms, Gradient Boosting algorithms, GBM,XGBoost).                     
+        Dimensionality Reduction Algorithms, Gradient Boosting algorithms, GBM,XGBoost)                 
 
 ### Statistical Concepts: 
         Descriptive Statistics (EDA), Inferential Statistics(Sample vs Population),
         Random Variables, Hypothesis Testing, Z-test, Student t-test, Anova Test,
         Pearson correlation coefficient, Spearman rank correlation coefficient,
-        Gaussian/Normal Distributions, Log-Normal Distributions, Covariance.
+        Gaussian/Normal Distributions, Log-Normal Distributions, Covariance
 
