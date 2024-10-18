@@ -1,37 +1,36 @@
-## About Me
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/manideep-muddagowni-b49aa9159/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+<h1  align="center">
+  hey there, Manideep Muddagowni
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+---
 
-<p>I’m a Computer Science 💻 Post graduate Student of 2021 batch from University Of Hertfordshire🎓. </p> <p>A Data Science geek with a strong understanding of stats and math behind the algorithms. Familiar with ML frameworks. Having good hands-on In Machine Learning.⏳.</p>
-<p>I'm aspiring 🔭️ Data Scientist currently delving deep into Deep Learning  🚂.</p>
-<p>I'm Interested in Artificial Intelligence 🤔.</p>
-<p>I'm a knowledge seeker & I love to learn new 💻 Technologies.</p>
+### :man_technologist: About Me :
 
-#### Keep Learning 👨‍🎓️
-    
-## 🔥 Things I'm good at
-### Languages: 
-          Python
-### Framework: 
-          Flask, Django
-### Databases: 
-          MySQL
-### Operating Systems:
-          Windows, Ubuntu
-### Cloud:
-       Heroku, GCP (Google Cloud Platform).
-### Libraries & Tools:
-       Scikit learn, Numpy, Pandas, Seaborn, Matplotlib, SciPy, Feature Engineering,
-       Handling Missing Values, Feature Scaling
-       
-### Machine learning Algorithms: 
-        Exploratory Data Analysis (EDA)Scikit learn, Numpy, Pandas, Scipy,
-        Feature Engineering, Handling Missing Values, Feature Scaling, Supervised
-        and Unsupervised algorithms.(Linear Regression, Logistic Regression,
-        Decision Tree, SVM,Naive Bayes, kNN, K-Means, Random Forest,
-        Dimensionality Reduction Algorithms, Gradient Boosting algorithms, GBM,XGBoost)                 
+Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- :Data Scientist with 3 years of experience in AI and machine learning, including 1 year and 8 months in data science and machine learning, and 1 year and 4 months specializing in Generative AI. I started my career as a Machine Learning Engineer, where I developed and deployed innovative solutions to real-world challenges. I utilize advanced Generative AI models, applying them directly for impactful results while fine-tuning them as needed to enhance performance. I am passionate about leveraging AI to address complex problems and committed to continuous learning and driving technological innovation.
 
-### Statistical Concepts: 
-        Descriptive Statistics (EDA), Inferential Statistics(Sample vs Population),
-        Random Variables, Hypothesis Testing, Z-test, Student t-test, Anova Test,
-        Pearson correlation coefficient, Spearman rank correlation coefficient,
-        Gaussian/Normal Distributions, Log-Normal Distributions, Covariance
+- :mailbox:How to reach me: muddagownimanideep96@gmail.com
+---
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/manideep-muddagowni-b49aa9159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manideep-muddagowni-b49aa9159" height="30" width="40" /></a>
+<a href="https://medium.com/@muddagownimanideep-g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muddagownimanideep-g" height="30" width="40" /></a>
+</p>
+
 
