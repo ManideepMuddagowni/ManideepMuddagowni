@@ -15,7 +15,7 @@
 ### :man_technologist: About Me :
 
 Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :Data Scientist with 3 years of experience in AI and machine learning, including 1 year and 8 months in data science and machine learning, and 1 year and 4 months specializing in Generative AI. I started my career as a Machine Learning Engineer, where I developed and deployed innovative solutions to real-world challenges. I utilize advanced Generative AI models, applying them directly for impactful results while fine-tuning them as needed to enhance performance. I am passionate about leveraging AI to address complex problems and committed to continuous learning and driving technological innovation.
+Data Scientist with 3 years of experience in AI and machine learning, specializing in data science, machine learning, and Generative AI. I began my career as a Machine Learning Engineer, developing and deploying solutions to solve real-world challenges. My expertise includes utilizing and fine-tuning advanced Generative AI models to drive impactful results. I am passionate about leveraging AI to address complex problems, continuously advancing my knowledge, and fostering technological innovation.
 
 - :mailbox:How to reach me: muddagownimanideep96@gmail.com
 ---
