@@ -15,7 +15,7 @@
 ### :man_technologist: About Me :
 
 Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-with 3 years of experience in AI and machine learning, specializing in data science, machine learning, and Generative AI. I began my career as a Machine Learning Engineer, developing and deploying solutions to solve real-world challenges. My expertise includes utilizing and fine-tuning advanced Generative AI models to drive impactful results. I am passionate about leveraging AI to address complex problems, continuously advancing my knowledge, and fostering technological innovation.
+with 3.9 years of experience developing full-stack data science projects across cybersecurity, real estate, insurance, and e-commerce domains, leveraging machine learning, deep learning, GenAI, and MLOps to solve complex business challenges.
 
 - :mailbox:reach me: muddagownimanideep96@gmail.com
 ---
