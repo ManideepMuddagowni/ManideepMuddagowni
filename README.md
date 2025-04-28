@@ -17,7 +17,7 @@
 Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 with 3.9 years of experience developing full-stack data science projects across cybersecurity, real estate, insurance, and e-commerce domains, leveraging machine learning, deep learning, GenAI, and MLOps to solve complex business challenges.
 
-- :mailbox:reach me: muddagownimanideep96@gmail.com
+- :mailbox:reach me: manideepmuddagowni96@gmail.com
 ---
 
 <h3 align="left">Languages and Tools:</h3>
